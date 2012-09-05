@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map>
+<boolean name="AllowActiveSync" value="true"/>
+<boolean name="ShowSkipSetupMenu" value="true"/>
+<boolean name="ShowConnectionChooser" value="true"/>
+<boolean name="ShowDataSaverInSetup" value="true"/>
+</map>
